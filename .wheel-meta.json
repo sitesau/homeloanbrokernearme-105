@@ -1,0 +1,22 @@
+{
+  "wheel_id": 568,
+  "structure": "umbrella",
+  "slug": "homeloanbrokernearme-105",
+  "project": "mortgage-brokers-brisbane-refinancing-bf99413ddf5512c61c8cc85d8",
+  "parent_t1_ref": "homeloanbrokernearme-152",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokernearme.com.au",
+  "primary_kw": "mortgage brokers brisbane refinancing",
+  "intended_url": "https://aumedia.neocities.org/mortgage-brokers-brisbane-refinancing-bf99413ddf5512c61c8cc85d8/",
+  "tier": "T2",
+  "writeback_nonce": "927938509a0711d6",
+  "links": [
+    {
+      "target_url": "http://mortgage-brokers-brisbane-d64186e522f274ec5c17b291be72404cf0e8a.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
